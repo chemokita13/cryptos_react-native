@@ -6,6 +6,9 @@ ___
 ___
 ScreenShots
 ___
-![cryptos_react-native-screenshot1](https://user-images.githubusercontent.com/87540108/170102854-abb299c1-c640-4fdd-8f18-f90d3120b4b0.jpg)
+<div>
+<img src='https://user-images.githubusercontent.com/87540108/170102854-abb299c1-c640-4fdd-8f18-f90d3120b4b0.jpg' style='width: 25%; height:25%'/>
+<img src='https://user-images.githubusercontent.com/87540108/170102872-983221bb-3e8e-4cf2-95d0-e0d40f44f387.jpg' style='width: 25%; height:25%'/>
+</div>
 ___
-![cryptos_react-native-screenshot2](https://user-images.githubusercontent.com/87540108/170102872-983221bb-3e8e-4cf2-95d0-e0d40f44f387.jpg)
+
